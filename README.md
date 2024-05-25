@@ -12,3 +12,6 @@
 - 🚀 Estoy emocionado por colaborar en proyectos de código abierto y contribuir a la comunidad.
 - 🎨 Disfruto trabajando en mis propios proyectos y experimentando con nuevas ideas.
 - 🌐 También me interesan áreas como el desarrollo de aplicaciones móviles, videojuegos y nuevos lenguajes de programación.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
