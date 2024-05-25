@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center"> Hola, soy Adrian 👋</h1>
+</div>
 
-<!--
-**AdrianGonzalo/AdrianGonzalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.canva.com/design/DAGGQ7BKfIE/yq0bDLDinI25mLeT92SJ3g/view?utm_content=DAGGQ7BKfIE&utm_campaign=designshare&utm_medium=link&utm_source=editor"=>
 
-Here are some ideas to get you started:
+## Sobre mi 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.
+- 💻 Me interesa el desarrollo web y disfruto creando aplicaciones funcionales y atractivas.
+- 🛠️ Mis tecnologías favoritas incluyen React, Node.js y Express.
+- 🚀 Estoy emocionado por colaborar en proyectos de código abierto y contribuir a la comunidad.
+- 🎨 Disfruto trabajando en mis propios proyectos y experimentando con nuevas ideas.
+- 🌐 También me interesan áreas como el desarrollo de aplicaciones móviles, videojuegos y aprender nuevos lenguajes de programación.
