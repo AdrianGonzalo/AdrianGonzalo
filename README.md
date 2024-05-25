@@ -13,5 +13,6 @@
 - 🎨 Disfruto trabajando en mis propios proyectos y experimentando con nuevas ideas.
 - 🌐 También me interesan áreas como el desarrollo de aplicaciones móviles, videojuegos y nuevos lenguajes de programación.
 
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianGonzalo)](https://github.com/AdrianGonzalo/github-readme-stats)
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=AdrianGonzalo&show_icons=true"/>
