@@ -2,7 +2,7 @@
   <h1 align="center"> Hola, soy Adrian 👋</h1>
 </div>
 
-<img src="https://www.canva.com/design/DAGGQ7BKfIE/yq0bDLDinI25mLeT92SJ3g/view?utm_content=DAGGQ7BKfIE&utm_campaign=designshare&utm_medium=link&utm_source=editor"=>
+
 
 ## Sobre mi 
 
