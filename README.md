@@ -18,7 +18,7 @@
 <div align="center">
   <h1 align="center"> CONOCIMIENTOS 🎓</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,discord,github,md,mongodb,nodejs,npm,ps,regex,vscode,windows,wordpress)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,discord,github,md,mongodb,nodejs,npm,ps,regex,vscode,windows)](https://skillicons.dev)  
   
 </div>
 
