@@ -15,5 +15,15 @@
 
 <br>
 
+<div align="center">
+  <h1 align="center"> CONOCIMIENTOS 🎓</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,discord,github,md,mongodb,nodejs,npm,ps,regex,vscode,windows,wordpress)](https://skillicons.dev)  
+  
+</div>
+
+<br>
+
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AdrianGonzalo&show_icons=true"/>
 <img alt="my language" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGonzalo&layout=compact"/>
+
