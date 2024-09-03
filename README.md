@@ -23,6 +23,6 @@
 
 <br>
 
-<img alt="my stats" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=AdrianGonzalo&show_icons=true"/>
-<img alt="my language" align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGonzalo&layout=compact"/>
+<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=AdrianGonzalo&show_icons=true"/>
+<img alt="my language" align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGonzalo&layout=compact"/>
 
