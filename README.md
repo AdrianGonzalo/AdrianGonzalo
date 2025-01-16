@@ -14,6 +14,23 @@
 
 <br>
 
+## Proyectos propios
+
+<div style="display: flex; flex-direction: column; gap: 10px;"> 
+  <a href="https://gamehub-players.netlify.app/login" target="_blank">Game-Hub</a>
+  <br>
+  <a href="https://6789263b2542855131a4c952--joty.netlify.app/" target="_blank">JOTY</a>
+</div>
+
+
+<br>
+
+
+## Mi [Portfolio](https://portfolio-adrian-martin-gonzalo.netlify.app/) personal :)
+
+<br>
+
+
 <div align="center">
   <h1 align="center"> CONOCIMIENTOS 🎓</h1>
 
